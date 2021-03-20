@@ -1,0 +1,32 @@
+languages:
+  - item: C++
+  - item: Python
+  - item: Java
+  - item: HTML
+  - item: CSS/Sass
+  - item: JavaScript (ES6)
+
+frameworks:
+  - item: React
+  - item: Django
+  - item: Flask
+  - item: Jquery
+  - item: React Native
+  - item: Socket.io
+  - item: Chart.js
+
+tools:
+  - item: Bash
+  - item: Git & Github
+  - item: Chrome DevTools
+  - item: Postman
+
+platforms:
+  - item: Heroku
+  - item: Firebase
+  - item: GCP
+
+databases:
+  - item: SQL
+  - item: MongoDB
+  - item: Cloud Databases

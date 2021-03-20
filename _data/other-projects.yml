@@ -1,0 +1,38 @@
+- name: Stonks
+  url: https://github.com/bchiang7/Surf-Videos
+  code: https://github.com/bchiang7/Surf-Videos
+  description: A web application for traders to interact with the community, and help them manage their portfolio using dynamic portfolio allocation.
+  used:
+    - thing: React
+    - thing: Django
+    - thing: Socket.io
+    - thing: PyTorch
+    - thing: Scikit
+
+- name: HackBot
+  url: https://discord.com/api/oauth2/authorize?client_id=796724191751569479&permissions=93200&scope=bot
+  code: https://github.com/starwiz-7/HackBot
+  description: A discord bot that notifies server members about upcoming hackathons. It currently serves 15+ servers and 5500+ users.
+  used:
+    - thing: Python
+    - thing: Discord.py
+    - thing: Heroku
+
+- name: HackBot Scraper
+  url: https://github.com/starwiz-7/HackBot-Scraper
+  code: https://github.com/starwiz-7/HackBot-Scraper
+  description: A scraper that scrapes information about hackathons from various sites. Data scraped is used in 3 projects.
+  used:
+    - thing: Python
+    - thing: Selenium
+    - thing: MongoDB
+
+- name: The Minerva Project
+  url: https://github.com/starwiz-7/The-Minerva-Project
+  code: https://github.com/starwiz-7/The-Minerva-Project
+  description: It acts as a community driven page to create and share roadmaps to become domain experts in the fastest manner possible.
+  used:
+    - thing: React
+    - thing: Material UI
+    - thing: Django
+    - thing: MongoDB
