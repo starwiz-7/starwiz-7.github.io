@@ -1,6 +1,6 @@
 - name: Stonks
-  url: https://github.com/bchiang7/Surf-Videos
-  code: https://github.com/bchiang7/Surf-Videos
+  url: https://github.com/starwiz-7
+  code: https://github.com/starwiz-7
   description: A web application for traders to interact with the community, and help them manage their portfolio using dynamic portfolio allocation.
   used:
     - thing: React
